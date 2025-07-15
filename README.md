@@ -13,7 +13,7 @@ A classic front-end project to manage shops, offers, and product comparison.
 
 1. Clone or download the repository.
 
-git clone https://github.com/YOUR_USERNAME/super-mall-web-app.git
+git clone https://github.com/manu19025/Super-Mall-Web-Application-
 
 2. Navigate into the project folder:
 
